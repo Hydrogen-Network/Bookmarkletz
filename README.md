@@ -1,5 +1,5 @@
 # Proxys for noobs
-<h3>oof, proxys.txt isn't updated</h3>
+The proxys of your choosing!
 
 # To Do
 <li>Fix the Readme</li>
