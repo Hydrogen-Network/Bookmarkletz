@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email  - blade_immovably193@simplelogin.com
 
-Project Link: [https://github.com/neealdon3/PayloadAllTheThings-password-protected-](https://github.com/neealdon3/PayloadAllTheThings-password-protected-)
+Project Link: [https://github.com/neealdon3/Bookmarklets](https://github.com/neealdon3/Bookmarklets)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
