@@ -21,6 +21,21 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#tutorial-for-txts">Tutorial</a>
+    </li>
+    <li>
+      <a href="#contributing">Contributing</a>
+      <ul>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
 # Tutorial for txts
 you have to download One Tab or something similar.
 Then find the import button and copy-paste the links.
