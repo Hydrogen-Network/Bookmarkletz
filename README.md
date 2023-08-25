@@ -32,6 +32,10 @@
   </ol>
 </details>
 
+# Javascripts
+```javascript
+
+```
 # Tutorial for txts
 you have to download One Tab or something similar.
 Then find the import button and copy-paste the links.
