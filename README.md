@@ -25,6 +25,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#javascripts">Javascripts</a></li>
     <li><a href="#tutorial-for-txts">Tutorial</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
