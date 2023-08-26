@@ -14,7 +14,7 @@
 <div align="center">
 <h3 align="center">Bookmarklets for noobs</h3>
   <p align="center">
-    The bookmarklets of your choosing! Notice: proxys.txt is not updated.
+    The bookmarklets of your choosing! Notice: proxys.txt has more proxys than the bookmarklet, but you have to open them all at once.
     <a href="https://github.com/neealdon3/Bookmarklets/issues">Report Bug</a>
     ·
     <a href="https://github.com/neealdon3/Bookmarklets/issues">Request Feature</a>
