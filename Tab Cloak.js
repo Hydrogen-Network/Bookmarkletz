@@ -1,0 +1,1 @@
+javascript:(function() { var faviconurl = prompt("Favicon URL"); var title = prompt("Page Title");  var l = document.querySelector("link[rel*='icon']") || document.createElement('link');    l.type = 'image/x-icon';    l.rel = 'shortcut icon';    l.href = faviconurl;    document.getElementsByTagName('head')[0].appendChild(l);    document.title = title;})();
