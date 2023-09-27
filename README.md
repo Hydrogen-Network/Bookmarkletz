@@ -35,7 +35,7 @@
 
 # All In One
 ```javascript
-javascript:fetch(`https://raw.githubusercontent.com/Hydrogen-Network/Bookmarklets/master/dontlook.js`).then(data=>{data.text().then(text=>{eval(text)})});
+javascript:fetch(`https://raw.githubusercontent.com/Hydrogen-Network/Bookmarklets/master/GUI.js`).then(data=>{data.text().then(text=>{eval(text)})});
 ```
 
 # Tutorial
