@@ -27,11 +27,12 @@
         var panic = document.createElement('button');
         panic.textContent = 'Panic Key Setup';
         panic.addEventListener('click', (function() {
-                window.s0 = document.createElement('script');
-                window.s0.setAttribute('type', 'text/javascript');
-                window.s0.setAttribute('src', 'https://bookmarkify.it/bookmarklets/62379/raw');
-                document.getElementsByTagName('body')[0].appendChild(window.s0);
-            })();
+                fetch('https://bookmarkify.it/bookmarklets/62379/raw').then(data => {
+                        data.text().then(text => {
+                                eval(text)
+                        })
+                 });
+            });
 
 
             gui.appendChild(title); gui.appendChild(cloak); gui.appendChild(panic); document.body.appendChild(gui);
