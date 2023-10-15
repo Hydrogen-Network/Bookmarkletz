@@ -17,23 +17,11 @@
         var cloak = document.createElement('button');
         cloak.textContent = 'Tab Cloak';
         cloak.addEventListener('click', function() {
-            fetch(`https://raw.githubusercontent.com/Hydrogen-Network/Bookmarklets/master/Tab%20Cloak.js`).then(data => {
-                data.text().then(text => {
-                    eval(text)
-                })
-            });
-        });
-
-        var panic = document.createElement('button');
-        panic.textContent = 'Panic Key Setup';
-        panic.addEventListener('click', (function() {
-                fetch('https://bookmarkify.it/bookmarklets/62379/raw').then(data => {
+            fetch('https://bookmarkify.it/bookmarklets/62379/raw').then(data => {
                         data.text().then(text => {
                                 eval(text)
                         })
                  });
-            });
-
-
-            gui.appendChild(title); gui.appendChild(cloak); gui.appendChild(panic); document.body.appendChild(gui);
+        });
+            gui.appendChild(title); gui.appendChild(cloak); document.body.appendChild(gui);
         })();
