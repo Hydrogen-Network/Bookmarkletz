@@ -1,14 +1,9 @@
 https://rolling-sky--jser.repl.co/
-https://www.crazygames.com/
-webgames.io
 https://wqqcwh.csb.app/
 https://radon.games/
-https://neal.fun/
-mathcool.glitch.me
-tankmate.glitch.me
-scenexe.io
-makecheckboxart.glitch.me
-startale.glitch.me
+https://mathcool.glitch.me
+https://tankmate.glitch.me
+https://startale.glitch.me
 https://quickplaygames.github.io/
 https://lxpa.onrender.com/
 https://classes.spanishlearning.com.ar/
@@ -243,5 +238,4 @@ https://shs.klj2.repl.co/
 https://55gms.tk/
 https://totallyscience.co/
 https://skoolgq.github.io/
-https://github.com/Skoolgq/Polaris-Assets
-https://github.com/NebulaServices/3kh0
+https://polarislearning.org
