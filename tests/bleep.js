@@ -50,7 +50,7 @@ function generateSpeechAndScream(text) {
 }
 
 // Usage example
-const textToScream = "WARNING!!! THIS HAS A BLEEPING SOUND!!!!";
+const textToScream = "";
 generateSpeechAndScream(textToScream)
   .then((screamBuffer) => {
     playAudio(screamBuffer);
